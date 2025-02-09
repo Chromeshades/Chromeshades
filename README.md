@@ -7,7 +7,7 @@ Hello! I'm Jason Brown, a Software Development Engineer in Test (SDET) at cPanel
 
 ## Skills and Expertise
 
-- **Languages**: JavaScript, Perl
+- **Languages**: JavaScript/Typescript, Perl
 - **Automation Tools**: Playwright, Selenium
 - **Frameworks**: Node.js, Jest
 - **CI/CD**: Jenkins, GitLab, GitHub Actions
